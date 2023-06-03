@@ -1,12 +1,14 @@
 # Introduction to Jupyter Notebooks in VS Code
 
 - [GitHub Repository](https://github.com/denisecase/datafun-04-notebooks/)
+## Done ---
 
 Jupyter Notebooks are a popular way to create and share documents for data analytics. They are interactive, easy to share, and support a wide variety of data science tools.
 
 ## Step 1: Open The Project Folder
 
 Open VS Code and clone your `datafun-04-notebooks` repository to your machine.
+## Done
 
 ## Step 2: Update Default Python
 
@@ -22,12 +24,13 @@ python -m pip install --upgrade black ruff
 Note: If `py` or `python3` works on your machine, use that instead of `python` in the commands.
 
 -----
-
+## Installed and upgarded
 ## Step 3: Add Common Files
 
 When starting a new project, there are some common files you should add to the project folder.
 
 ### Add .gitignore
+### Added gitignore 
 
 - The .gitignore file tells Git files to ignore when committing changes.
 - Review the [gitignore](gitignore) file, you can use it without modification.
